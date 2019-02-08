@@ -5,7 +5,7 @@
 > This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
 > learned how to send requests in JavaScript to the backend API.
 
-> I organized our documentation and note-taking necessary for our group project. This will help us remain focused and know what we must do and by when. Furthermore, I am going through the steps of installing AGENCY, as well as Postgres and PHP, on my computer, and it is mostly done. 
+I organized our documentation and note-taking necessary for our group project. This will help us remain focused and know what we must do and by when. Furthermore, I am going through the steps of installing AGENCY, as well as Postgres and PHP, on my computer, and it is mostly done. 
 
 ## This Week's Plan
 
