@@ -54,3 +54,5 @@ summer_2019
 This repository comes with a starter directory for the current semester (`fall_2018`).
 
 4. Setup is complete :)
+
+Testing testing!
