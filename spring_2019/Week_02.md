@@ -12,7 +12,7 @@ Continue figuring out how to install everything and have it all connected. Once 
 
 The biggest blocker is trying to start up postgres from WSL. When i switch-user to postgres and then try to start using the psql command, I get: 
 > psql: could not connect to server: No such file or directory Is the server running locally and accepting connections on Unix domain socket “/var/run/postgresql/.s.PGSQL.5432”?
-After a lot of digging through github and stack overflow posts, I found a solution that is for my specific setup, that being Ubuntu 18.04 on WSL. So, I will begin following that tutorial to fix that.
+After a lot of digging through github and stack overflow posts, I found a solution that is for my specific setup, that being Ubuntu 18.04 on WSL. So, I will begin following that tutorial to fix that. https://gist.github.com/bushidocodes/4a02f6cc865d280b10400319b128cd92
 
 The next problem was trying to run the AGENCY installation scripts. But, with the combination of Ken's feedback, and some new material from the Database Systems course I am taking here at RPI, I have some workarounds to play with. So, I'll see how it goes.
 
