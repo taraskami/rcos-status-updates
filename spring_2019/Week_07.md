@@ -12,3 +12,4 @@ As I mentioned above, I will try and get rid of those mail errors by either unin
 As I mentioned above again, lack of communication is making me not able to resolve some issues. I have ways that may fix the problems, but it's either experimental or simple.
 
 ## Notes
+PgMail components were installed when calling `\i pgmail_function.sql` from install.pg_super_user_stuff.sql. I can trace whatever occurred when this was called and DROP everything. Instead, I could comment out that line and reinstall AGENCY. The longer-form installation txt suggested doing this.
